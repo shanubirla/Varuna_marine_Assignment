@@ -176,7 +176,7 @@ Shows baseline vs comparison data, with % difference and compliance indicators. 
 
 ### 🏦 Banking Tab
 
-Displays Compliance Balance (CB), allows banking surplus and applying it to deficit years. <img src="docs/screenshots/banking.png" alt="Banking Tab" width="750"/>
+Displays Compliance Balance (CB), allows banking surplus and applying it to deficit years. <img src="docs/screenshots/Banking.png" alt="Banking Tab" width="750"/>
 
 ---
 
