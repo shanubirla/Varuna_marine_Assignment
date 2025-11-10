@@ -164,13 +164,13 @@ npm test
 
 ### 🗺️ Routes Tab
 
-Displays all seeded routes, allows filtering, and lets you set a baseline. <img src="docs/screenshots/routes.png" alt="Routes Tab" width="750"/>
+Displays all seeded routes, allows filtering, and lets you set a baseline. <img src="docs/screenshots/Routes.png" alt="Routes Tab" width="750"/>
 
 ---
 
 ### 📊 Compare Tab
 
-Shows baseline vs comparison data, with % difference and compliance indicators. <img src="docs/screenshots/compare.png" alt="Compare Tab" width="750"/>
+Shows baseline vs comparison data, with % difference and compliance indicators. <img src="docs/screenshots/Compare.png" alt="Compare Tab" width="750"/>
 
 ---
 
@@ -182,7 +182,7 @@ Displays Compliance Balance (CB), allows banking surplus and applying it to defi
 
 ### ⚖️ Pooling Tab
 
-Implements pooling logic to redistribute CBs between ships. <img src="docs/screenshots/pooling.png" alt="Pooling Tab" width="750"/>
+Implements pooling logic to redistribute CBs between ships. <img src="docs/screenshots/Pooling.png" alt="Pooling Tab" width="750"/>
 
 ---
 
@@ -197,14 +197,6 @@ Implements pooling logic to redistribute CBs between ships. <img src="docs/scree
 
 ---
 
-## 🏗️ Future Enhancements
-
-* [ ] Add ESLint + Prettier configuration
-* [ ] Dockerize backend and Postgres
-* [ ] Add CI/CD with GitHub Actions
-* [ ] Improve charts with Recharts or Chart.js
-
----
 
 ## 🧠 About
 
@@ -219,10 +211,4 @@ Developed as part of the **FuelEU Maritime – FullStack Developer Assignment**,
 
 ⭐ **Built with clarity, domain focus, and testability in mind.**
 
-```
-
----
-
-
-
-
+ 
